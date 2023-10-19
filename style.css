@@ -1,0 +1,72 @@
+header{
+text-align: center;
+background-color:rgb(22, 41, 71, 1.0)  ;
+height: 140px;
+color: whitesmoke;
+font-size: 30px;
+vertical-align: middle;
+}
+
+body{;
+
+}
+
+.Wrapper {
+	margin:0px auto;
+	width: 1000px;
+}
+
+.navbar ul{
+	list-style-type: none;
+	background-color: rgb(75, 114, 156, 1.0);
+	margin: 0px;
+	text-align: center;
+	height: 40px;
+	padding-top: 15px;
+}
+
+.navbar a{
+	color: whitesmoke;
+	text-decoration: none;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+.navbar ul li{
+	display: inline;
+}
+
+
+.navbar a:hover{
+	background-color:rgb(22, 41, 71, 1.0) ;
+}
+
+.main{
+	background-color: rgb(191, 192, 232, 1.0);
+	padding-top: 20px;
+	height: 700px;
+	float: left;
+	width: 70%;
+}
+
+.sidebar{
+		background-color: rgb(23, 108, 98, 1.0) ;
+		float: right;
+		width: 30%;
+		height: 720px;
+}
+
+h1,p{
+	margin: 10px;
+}
+
+#footer{
+	background-color:rgb(22, 41, 71, 1.0)  ;
+	color: whitesmoke;
+	height: 40px;
+	clear: both;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 10px;
+	
+}
